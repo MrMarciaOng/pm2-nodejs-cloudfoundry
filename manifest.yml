@@ -1,0 +1,5 @@
+---
+applications:
+- name: test-pm2
+  command: npm start
+  
