@@ -7,6 +7,6 @@ Start a terminal
  2. cd into the folder
  3. cf push 
 
-Hope this help you navigating cloudfoundry lol 
+Hope this help you navigate cloudfoundry...
 
 ![enter image description here](https://media.giphy.com/media/NS7gPxeumewkWDOIxi/giphy.gif)
